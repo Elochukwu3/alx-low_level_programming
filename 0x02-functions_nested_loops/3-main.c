@@ -1,13 +1,9 @@
 #include "main.h"
-		
-
-		
-/**
-		
+/**		
 * main - execute function.
 * *
 * Return: Always 0.
- */
+*/
 		
 int main(void)
 		
